@@ -1,0 +1,438 @@
+﻿Rune id,Equipped to monster,Rune set,Slot No,Stars,level,Sell Price,Primary effect,Prefix effect,First Substat,Second Substat,Third Substat,Fourth Substat,Barion's Rune Efficiency
+1,0,Energy,1,6,9,12046,ATK +94,,HP 11%,SPD +12,ATK 5%,,64.29 %
+2,0,Energy,1,5,0,6460,ATK +15,,CRI Dmg 5%,ATK 7%,SPD +3,,45.28 %
+3,0,Energy,1,6,0,12046,ATK +22,,Accuracy 4%,HP +194,HP 6%,,44.64 %
+4,0,Energy,1,5,0,4845,ATK +15,,ATK 5%,Resistance 6%,,,40.18 %
+5,0,Energy,1,5,0,11305,ATK +15,HP 7%,Accuracy 7%,SPD +3,Resistance 6%,CRI Dmg 3%,54.85 %
+6,0,Energy,1,5,0,6460,ATK +15,Resistance 5%,SPD +5,CRI Rate 4%,,,45.54 %
+7,0,Energy,1,5,0,4845,ATK +15,,HP 5%,Accuracy 7%,,,41.07 %
+8,0,Energy,1,5,0,4845,ATK +15,,Accuracy 6%,HP 6%,,,41.07 %
+9,0,Energy,2,5,0,5100,SPD +5,,ATK +15,CRI Dmg 5%,,,35.46 %
+10,0,Energy,3,6,9,14265,DEF +94,,CRI Rate 11%,HP +707,HP 6%,Accuracy 15%,67.56 %
+11,0,Energy,3,5,9,6375,DEF +78,Resistance 7%,Accuracy 13%,HP 13%,HP +238,,59.82 %
+12,0,Energy,3,5,9,8925,DEF +78,CRI Rate 3%,CRI Dmg 11%,DEF 4%,HP 6%,Accuracy 10%,63.01 %
+13,0,Energy,3,6,0,9510,DEF +22,,HP +209,CRI Rate 6%,CRI Dmg 7%,,50.00 %
+14,0,Energy,3,5,9,5100,DEF +78,,HP 9%,SPD +7,HP +157,,46.73 %
+15,0,Energy,3,5,0,5100,DEF +15,Resistance 4%,HP 6%,Accuracy 5%,,,43.75 %
+16,0,Energy,3,5,7,5100,DEF +64,Accuracy 3%,DEF 11%,HP 10%,,,51.79 %
+17,0,Energy,3,5,0,6375,DEF +15,Accuracy 5%,HP 6%,CRI Dmg 4%,DEF 5%,,48.72 %
+18,0,Energy,3,5,0,5100,DEF +15,SPD +4,HP 6%,DEF 4%,,,44.05 %
+19,0,Energy,3,5,0,3825,DEF +15,,DEF 4%,SPD +4,,,38.69 %
+20,0,Energy,3,6,0,9510,DEF +22,,Accuracy 6%,CRI Rate 6%,SPD +4,,52.98 %
+21,0,Energy,3,6,0,14265,DEF +22,,HP 6%,SPD +5,HP +254,CRI Rate 6%,54.17 %
+22,0,Energy,3,5,0,6375,DEF +15,Accuracy 4%,CRI Dmg 5%,SPD +5,DEF 6%,,50.34 %
+23,0,Energy,3,5,0,6375,DEF +15,DEF 6%,SPD +5,CRI Dmg 5%,CRI Rate 4%,,51.53 %
+24,0,Energy,3,6,0,9510,DEF +22,DEF 6%,SPD +6,HP 8%,,,55.36 %
+25,0,Energy,4,5,12,9180,DEF 37%,,HP 15%,ATK 5%,CRI Rate 3%,SPD +4,56.55 %
+26,0,Energy,4,6,8,11412,DEF 35%,,SPD +5,Accuracy 11%,Resistance 13%,,63.10 %
+27,0,Energy,4,5,0,6120,ATK 8%,SPD +3,CRI Dmg 5%,Accuracy 3%,,,41.71 %
+28,0,Energy,4,5,0,9180,HP 8%,,DEF 7%,HP +168,SPD +3,CRI Rate 4%,44.94 %
+29,0,Energy,5,6,9,10144,HP +1440,,HP 13%,CRI Rate 10%,CRI Dmg 7%,,66.37 %
+30,0,Energy,5,5,0,5440,HP +270,Resistance 4%,HP 7%,Accuracy 5%,,,44.64 %
+31,0,Energy,5,6,0,7608,HP +360,,CRI Dmg 5%,ATK 5%,,,45.28 %
+32,0,Energy,5,5,0,4080,HP +270,,Accuracy 5%,HP 4%,,,38.39 %
+33,0,Energy,5,5,0,5440,HP +270,SPD +5,CRI Rate 4%,ATK 5%,,,45.54 %
+34,0,Energy,5,5,0,8160,HP +270,,DEF 5%,SPD +3,ATK +10,ATK 7%,44.64 %
+35,0,Energy,6,6,12,18861,HP 47%,HP +148,SPD +6,CRI Rate 15%,Accuracy 10%,CRI Dmg 6%,75.77 %
+36,0,Energy,6,5,0,5780,DEF 8%,HP +238,CRI Dmg 5%,ATK 4%,,,39.03 %
+37,0,Energy,6,6,3,10778,HP 20%,DEF 6%,SPD +5,Accuracy 11%,,,56.85 %
+38,0,Swift,1,5,9,8075,ATK +78,,CRI Rate 4%,Resistance 13%,SPD +7,,55.06 %
+39,0,Swift,1,5,9,8075,ATK +78,,SPD +8,ATK 10%,CRI Dmg 8%,,56.97 %
+40,0,Swift,1,5,9,8075,ATK +78,,CRI Rate 4%,ATK 12%,Accuracy 15%,,59.23 %
+41,0,Swift,1,5,9,9690,ATK +78,HP +120,SPD +6,ATK 11%,CRI Dmg 10%,,57.53 %
+42,0,Swift,1,6,12,21080,ATK +118,,HP 13%,HP +813,Accuracy 7%,Resistance 7%,59.82 %
+43,0,Swift,1,5,0,6460,ATK +15,,SPD +3,Resistance 7%,,,40.18 %
+44,0,Swift,1,5,0,11305,ATK +15,,Resistance 7%,CRI Rate 5%,SPD +5,Accuracy 6%,53.87 %
+45,0,Swift,1,6,9,15057,ATK +94,,CRI Dmg 12%,ATK 10%,HP +204,,56.89 %
+46,0,Swift,1,5,0,8075,ATK +15,HP 6%,ATK 5%,Accuracy 7%,,,46.43 %
+47,0,Swift,1,6,9,15057,ATK +94,,CRI Rate 5%,ATK 22%,SPD +5,,67.26 %
+48,0,Swift,1,5,9,8075,ATK +78,,CRI Rate 4%,ATK 19%,Accuracy 6%,,57.44 %
+49,0,Swift,1,5,0,9690,ATK +15,Accuracy 6%,HP 4%,Resistance 7%,CRI Rate 3%,,49.11 %
+50,0,Swift,2,6,0,15850,DEF 11%,CRI Rate 4%,HP 8%,SPD +6,,,54.76 %
+51,0,Swift,2,6,12,22190,ATK 47%,,SPD +6,CRI Dmg 21%,DEF +11,DEF 7%,70.54 %
+52,0,Swift,2,5,0,6800,SPD +5,,Resistance 7%,CRI Dmg 5%,,,41.71 %
+53,0,Swift,2,6,0,22190,SPD +7,,DEF +11,CRI Dmg 7%,HP +216,ATK +14,42.86 %
+54,0,Swift,2,6,0,15850,SPD +7,HP 6%,CRI Dmg 6%,CRI Rate 6%,,,54.34 %
+55,0,Swift,2,6,0,15850,DEF +22,CRI Rate 4%,DEF 7%,ATK +12,,,46.73 %
+56,0,Swift,2,6,0,25360,DEF 11%,ATK 6%,Accuracy 4%,Resistance 5%,DEF +12,ATK +15,49.11 %
+57,0,Swift,2,5,0,6800,SPD +5,,Accuracy 5%,CRI Dmg 5%,,,39.92 %
+58,0,Swift,2,6,0,15850,DEF 11%,DEF +14,HP 8%,ATK +12,,,42.86 %
+59,0,Swift,3,5,9,7650,DEF +78,HP +209,CRI Dmg 5%,CRI Rate 12%,Resistance 11%,,59.57 %
+60,0,Swift,3,5,9,10200,DEF +78,CRI Dmg 5%,SPD +3,HP 7%,CRI Rate 10%,DEF 14%,69.69 %
+61,0,Swift,3,5,0,6375,DEF +15,Accuracy 5%,DEF 5%,SPD +5,,,45.24 %
+62,0,Swift,3,5,0,5100,DEF +15,,Accuracy 7%,CRI Rate 5%,,,42.56 %
+63,0,Swift,3,5,0,6375,DEF +15,Resistance 3%,HP 6%,Accuracy 5%,,,42.86 %
+64,0,Swift,3,6,0,14265,DEF +22,SPD +6,Accuracy 4%,HP +211,HP 6%,,51.79 %
+65,0,Swift,3,5,0,6375,DEF +15,CRI Rate 3%,CRI Dmg 5%,SPD +5,,,44.98 %
+66,0,Swift,3,6,0,9510,DEF +22,,CRI Dmg 4%,SPD +6,,,46.94 %
+67,0,Swift,3,5,0,6375,DEF +15,CRI Dmg 5%,CRI Rate 4%,DEF 4%,,,43.79 %
+68,0,Swift,3,5,0,7650,DEF +15,CRI Rate 3%,SPD +4,HP 4%,Accuracy 5%,,46.73 %
+69,0,Swift,4,5,12,12240,CRI Dmg 48%,Accuracy 3%,DEF 17%,SPD +10,CRI Rate 5%,HP 4%,69.64 %
+70,0,Swift,4,6,0,14265,DEF 11%,HP +169,Accuracy 5%,CRI Rate 4%,,,44.94 %
+71,0,Swift,4,6,12,22824,CRI Dmg 59%,DEF +17,HP 20%,CRI Rate 4%,ATK 5%,SPD +5,68.75 %
+72,0,Swift,4,5,0,10710,ATK 8%,,CRI Dmg 5%,CRI Rate 3%,SPD +3,ATK +8,42.60 %
+73,0,Swift,4,5,0,9180,CRI Dmg 8%,Resistance 6%,SPD +3,ATK 6%,ATK +12,,44.64 %
+74,0,Swift,5,5,9,10880,HP +1215,Accuracy 3%,CRI Rate 8%,SPD +5,HP 5%,CRI Dmg 12%,65.22 %
+75,0,Swift,5,5,9,6800,HP +1215,,Resistance 11%,Accuracy 11%,SPD +9,,60.71 %
+76,0,Swift,5,5,9,8160,HP +1215,DEF 6%,SPD +13,ATK 4%,CRI Dmg 8%,,62.93 %
+77,0,Swift,5,5,12,10880,HP +1530,CRI Dmg 4%,Accuracy 10%,HP 13%,ATK 4%,CRI Rate 4%,63.31 %
+78,0,Swift,5,5,12,10880,HP +1530,DEF +11,ATK 7%,CRI Dmg 13%,Resistance 3%,SPD +5,58.50 %
+79,0,Swift,5,5,9,8160,HP +1215,Accuracy 6%,DEF 10%,HP 5%,DEF +32,,49.11 %
+80,0,Swift,5,5,9,6800,HP +1215,,ATK 12%,CRI Rate 8%,DEF 5%,,55.06 %
+81,0,Swift,5,5,0,5440,HP +270,,ATK +10,DEF +8,,,30.36 %
+82,0,Swift,5,5,9,9520,HP +1215,,CRI Dmg 7%,SPD +5,ATK 7%,HP 18%,65.77 %
+83,0,Swift,5,5,0,6800,HP +270,Resistance 5%,HP 7%,Accuracy 7%,,,47.32 %
+84,0,Swift,5,6,0,12680,HP +360,,CRI Dmg 4%,ATK 8%,Resistance 8%,,54.08 %
+85,0,Swift,5,5,0,10880,HP +270,ATK 5%,Resistance 3%,CRI Dmg 5%,CRI Rate 5%,ATK +11,48.55 %
+86,0,Swift,5,5,0,5440,HP +270,,CRI Dmg 5%,CRI Rate 3%,,,39.03 %
+87,0,Swift,5,5,0,5440,HP +270,,DEF 6%,Accuracy 5%,,,40.18 %
+88,0,Swift,5,5,0,5440,HP +270,,DEF +13,ATK +9,,,30.36 %
+89,0,Swift,5,5,0,8160,HP +270,Accuracy 7%,ATK +8,ATK 7%,CRI Dmg 5%,,47.96 %
+90,0,Swift,6,6,12,18861,HP 47%,,CRI Dmg 13%,SPD +10,DEF +13,CRI Rate 4%,65.65 %
+91,0,Swift,6,5,0,7225,ATK 8%,ATK +13,Accuracy 4%,SPD +4,,,38.69 %
+92,0,Swift,6,6,0,16167,HP 11%,DEF 5%,DEF +15,CRI Rate 4%,CRI Dmg 7%,,52.08 %
+93,0,Swift,6,5,0,11560,HP 8%,ATK 7%,ATK +14,DEF +8,Resistance 5%,SPD +5,47.02 %
+94,0,Blade,1,5,9,8882,ATK +78,Resistance 4%,CRI Rate 8%,ATK 13%,HP +186,,55.06 %
+95,0,Blade,1,5,9,8882,ATK +78,HP +288,ATK 12%,SPD +9,CRI Dmg 3%,,54.85 %
+96,0,Blade,1,5,9,8882,ATK +78,Accuracy 4%,CRI Dmg 13%,CRI Rate 3%,Resistance 4%,,54.34 %
+97,0,Blade,1,5,9,7267,ATK +78,,CRI Rate 7%,CRI Dmg 8%,Resistance 4%,,50.43 %
+98,0,Blade,1,5,9,7267,ATK +78,,CRI Rate 5%,ATK 17%,Accuracy 3%,,54.17 %
+99,0,Blade,1,5,9,8882,ATK +78,Resistance 7%,CRI Rate 3%,CRI Dmg 11%,HP 6%,,56.76 %
+100,0,Blade,1,5,9,12112,ATK +78,CRI Rate 5%,HP 14%,HP +143,CRI Dmg 7%,Accuracy 11%,65.77 %
+101,0,Blade,1,5,9,8882,ATK +78,CRI Dmg 3%,SPD +9,CRI Rate 10%,HP 7%,,62.29 %
+102,0,Blade,1,5,9,8882,ATK +78,ATK 6%,SPD +5,CRI Rate 13%,HP +473,,57.14 %
+103,0,Blade,1,5,9,8882,ATK +78,CRI Rate 3%,HP 9%,ATK 7%,CRI Dmg 10%,,58.42 %
+104,0,Blade,1,5,9,8882,ATK +78,Accuracy 5%,ATK 11%,CRI Rate 6%,HP +300,,51.79 %
+105,0,Blade,1,5,0,8882,ATK +15,Resistance 5%,CRI Rate 3%,Accuracy 3%,ATK 4%,,44.64 %
+106,0,Blade,1,6,9,19574,ATK +94,,CRI Dmg 17%,Resistance 8%,HP 14%,ATK 6%,78.06 %
+107,0,Blade,1,5,9,7267,ATK +78,,CRI Dmg 8%,Accuracy 20%,ATK 6%,,61.73 %
+108,0,Blade,1,5,0,8882,ATK +15,HP +205,Resistance 5%,Accuracy 7%,SPD +5,,47.02 %
+109,0,Blade,2,5,9,7650,SPD +23,,DEF 12%,CRI Dmg 8%,HP +144,,49.23 %
+110,0,Blade,2,5,9,7650,SPD +23,,ATK 10%,CRI Rate 6%,ATK +14,,46.43 %
+111,0,Blade,2,5,7,5950,SPD +19,,ATK 13%,CRI Rate 4%,,,46.73 %
+112,0,Blade,2,5,12,11050,DEF 37%,,CRI Rate 5%,CRI Dmg 12%,Accuracy 5%,ATK 7%,59.27 %
+113,0,Blade,2,6,0,14265,HP 11%,,CRI Dmg 6%,SPD +5,Accuracy 5%,,52.25 %
+114,0,Blade,2,5,0,7650,SPD +5,HP 7%,HP +190,CRI Rate 5%,,,42.56 %
+115,0,Blade,2,5,0,11050,DEF 8%,,SPD +4,HP 5%,CRI Rate 4%,ATK +10,44.35 %
+116,0,Blade,2,5,0,9350,HP 8%,Resistance 5%,Accuracy 3%,DEF 6%,SPD +4,,47.62 %
+117,0,Blade,2,5,0,7650,SPD +5,Resistance 6%,Accuracy 6%,CRI Dmg 4%,,,45.15 %
+118,0,Blade,3,5,9,7012,DEF +78,Accuracy 4%,CRI Dmg 13%,DEF 11%,CRI Rate 3%,,60.59 %
+119,0,Blade,3,5,9,5737,DEF +78,,CRI Rate 4%,SPD +12,Resistance 6%,,54.76 %
+120,0,Blade,3,6,9,10698,DEF +94,,CRI Dmg 11%,SPD +10,DEF 5%,,63.31 %
+121,0,Blade,3,5,9,5737,DEF +78,,CRI Rate 8%,CRI Dmg 8%,HP +200,,48.04 %
+122,0,Blade,3,6,3,8321,DEF +46,,DEF 8%,CRI Rate 10%,,,54.76 %
+123,0,Blade,3,5,9,7012,DEF +78,HP 6%,Resistance 12%,CRI Dmg 5%,CRI Rate 9%,,62.24 %
+124,0,Blade,3,5,9,5737,DEF +78,,CRI Dmg 4%,SPD +12,Accuracy 7%,,54.97 %
+125,0,Blade,3,5,0,5737,DEF +15,,DEF 6%,Accuracy 5%,CRI Dmg 4%,,44.26 %
+126,0,Blade,3,5,0,7012,DEF +15,Resistance 5%,SPD +5,HP 4%,DEF 5%,,48.81 %
+127,0,Blade,3,5,0,7012,DEF +15,CRI Rate 5%,HP 6%,SPD +3,CRI Dmg 5%,,50.34 %
+128,0,Blade,3,5,0,7012,DEF +15,HP 5%,CRI Dmg 4%,DEF 4%,CRI Rate 3%,,46.05 %
+129,0,Blade,5,5,12,10200,HP +1530,SPD +4,ATK 17%,CRI Dmg 5%,Resistance 6%,HP 6%,66.11 %
+130,0,Blade,5,5,0,7480,HP +270,HP 5%,ATK 4%,Accuracy 7%,DEF 6%,,50.00 %
+131,0,Blade,5,6,9,13948,HP +1440,DEF +15,SPD +12,CRI Rate 9%,ATK +17,,60.71 %
+132,0,Blade,5,5,0,6120,HP +270,Resistance 4%,DEF +13,ATK 7%,,,40.18 %
+133,0,Blade,5,5,0,6120,HP +270,,SPD +4,DEF 5%,HP 6%,,44.94 %
+134,0,Blade,5,5,0,6120,HP +270,SPD +5,CRI Dmg 4%,DEF 6%,,,45.75 %
+135,0,Blade,5,6,9,11412,HP +1440,,CRI Dmg 12%,ATK 12%,DEF 8%,,65.82 %
+136,0,Blade,5,5,0,6120,HP +270,,DEF 6%,CRI Rate 5%,Accuracy 4%,,45.24 %
+137,0,Rage,4,6,0,19971,ATK 11%,,,,,,35.71 %
+138,0,Focus,1,5,0,8075,ATK +15,,Accuracy 5%,ATK 7%,CRI Dmg 4%,,45.15 %
+139,0,Fatal,1,5,12,12112,ATK +99,CRI Rate 3%,CRI Dmg 10%,ATK 11%,HP 4%,Resistance 7%,63.78 %
+140,0,Fatal,1,5,9,8882,ATK +78,CRI Rate 4%,SPD +10,ATK 12%,Accuracy 6%,,63.10 %
+141,0,Fatal,1,5,9,7267,ATK +78,,ATK 15%,CRI Dmg 4%,CRI Rate 5%,,53.78 %
+142,0,Fatal,1,5,9,8882,ATK +78,Accuracy 7%,SPD +5,CRI Dmg 12%,ATK 5%,,59.27 %
+143,0,Fatal,1,5,0,7267,ATK +15,,ATK 6%,SPD +5,Resistance 4%,,45.24 %
+144,0,Fatal,1,5,0,7267,ATK +15,HP 5%,ATK 6%,SPD +4,,,44.94 %
+145,0,Fatal,1,5,0,8882,ATK +15,CRI Dmg 3%,Resistance 7%,SPD +4,CRI Rate 4%,,49.19 %
+146,0,Fatal,1,5,0,10497,ATK +15,,Accuracy 6%,CRI Rate 4%,SPD +5,Resistance 6%,51.79 %
+147,0,Fatal,1,5,9,8882,ATK +78,HP +242,CRI Dmg 5%,Resistance 7%,CRI Rate 15%,,59.57 %
+148,0,Fatal,1,5,0,8882,ATK +15,CRI Rate 3%,SPD +5,HP 5%,HP +155,,44.35 %
+149,0,Fatal,1,6,0,13551,ATK +22,ATK 8%,SPD +5,HP 6%,,,54.17 %
+150,0,Fatal,1,5,0,7267,ATK +15,,ATK 7%,Resistance 4%,CRI Dmg 5%,,45.28 %
+151,0,Fatal,1,5,0,7267,ATK +15,SPD +5,CRI Dmg 5%,ATK 5%,,,45.88 %
+152,0,Fatal,1,5,0,7267,ATK +15,CRI Rate 3%,SPD +3,CRI Dmg 5%,,,42.60 %
+153,0,Fatal,2,4,14,5971,SPD +25,,HP +81,HP 21%,ATK +10,Accuracy 8%,56.25 %
+154,0,Fatal,2,6,0,17435,DEF 11%,DEF +19,CRI Rate 5%,HP +247,Accuracy 5%,,46.13 %
+155,0,Fatal,2,6,0,17435,HP 11%,CRI Dmg 7%,SPD +6,Resistance 7%,HP +292,,56.25 %
+156,0,Fatal,2,5,0,7650,SPD +5,,HP 6%,CRI Dmg 4%,DEF +11,,39.80 %
+157,0,Fatal,3,5,9,8287,DEF +78,,Resistance 10%,SPD +3,DEF 11%,CRI Dmg 8%,60.84 %
+158,0,Fatal,3,5,9,5737,DEF +78,,CRI Dmg 8%,SPD +7,Accuracy 5%,,51.32 %
+159,0,Fatal,3,5,6,8287,DEF +57,,HP +128,Resistance 15%,SPD +3,CRI Dmg 4%,51.40 %
+160,0,Fatal,3,5,12,8287,DEF +99,,CRI Rate 9%,CRI Dmg 7%,HP +268,DEF 7%,54.46 %
+161,0,Fatal,3,5,9,9562,DEF +78,HP +172,CRI Dmg 6%,HP 7%,Accuracy 13%,SPD +3,57.91 %
+162,0,Fatal,3,5,0,5737,DEF +15,HP 7%,Accuracy 7%,SPD +3,,,46.43 %
+163,0,Fatal,3,5,9,5737,DEF +78,,CRI Rate 5%,CRI Dmg 10%,HP 10%,,55.44 %
+164,0,Fatal,4,5,12,9945,ATK 37%,,SPD +5,CRI Rate 9%,Accuracy 14%,Resistance 7%,65.77 %
+165,0,Fatal,4,5,12,9945,CRI Dmg 48%,,SPD +10,CRI Rate 6%,ATK +12,HP 6%,54.76 %
+166,0,Fatal,4,5,15,9945,CRI Dmg 65%,,ATK 16%,HP 6%,Accuracy 7%,CRI Rate 3%,59.82 %
+167,0,Fatal,4,6,0,12838,DEF 11%,DEF +16,CRI Rate 5%,HP 8%,,,48.81 %
+168,0,Fatal,5,5,9,6120,HP +1215,,CRI Rate 11%,DEF 7%,HP 4%,,53.27 %
+169,0,Fatal,5,6,9,11412,HP +1440,,Resistance 6%,SPD +12,CRI Dmg 9%,,64.54 %
+170,0,Fatal,5,5,9,6120,HP +1215,,Resistance 12%,CRI Dmg 9%,ATK 6%,,55.61 %
+171,0,Fatal,5,5,9,6120,HP +1215,,CRI Rate 15%,SPD +4,ATK +20,,52.98 %
+172,0,Fatal,5,5,0,6120,HP +270,DEF +14,CRI Rate 5%,CRI Dmg 5%,,,41.41 %
+173,0,Fatal,6,6,0,9430,HP +360,,ATK +10,SPD +4,,,40.48 %
+174,0,Fatal,6,5,0,6502,ATK 8%,,HP +284,SPD +4,CRI Dmg 3%,,38.18 %
+175,0,Despair,1,5,9,16150,ATK +78,SPD +5,CRI Dmg 12%,Resistance 5%,HP 7%,,59.27 %
+176,0,Despair,1,6,9,30115,ATK +94,CRI Dmg 5%,HP 14%,SPD +8,ATK 5%,,67.30 %
+177,0,Despair,1,5,0,14535,ATK +15,,CRI Dmg 3%,CRI Rate 3%,SPD +5,,42.94 %
+178,0,Despair,1,6,0,27103,ATK +22,Resistance 6%,CRI Dmg 4%,SPD +6,,,52.30 %
+179,0,Despair,1,5,0,14535,ATK +15,CRI Rate 3%,CRI Dmg 5%,ATK 7%,,,45.28 %
+180,0,Despair,1,5,0,14535,ATK +15,ATK 4%,Accuracy 7%,HP 5%,,,44.64 %
+181,0,Despair,1,5,0,14535,ATK +15,CRI Dmg 5%,HP 5%,Accuracy 6%,,,45.28 %
+182,0,Despair,1,5,0,14535,ATK +15,HP +191,CRI Dmg 5%,ATK 4%,,,39.03 %
+183,0,Despair,1,5,0,16150,ATK +15,CRI Rate 5%,SPD +4,Resistance 3%,CRI Dmg 5%,,48.85 %
+184,0,Despair,1,5,0,14535,ATK +15,HP 5%,SPD +4,Accuracy 4%,,,43.15 %
+185,0,Despair,1,5,0,14535,ATK +15,CRI Dmg 4%,SPD +5,Accuracy 7%,,,46.64 %
+186,0,Despair,1,5,0,12920,ATK +15,,ATK 5%,CRI Dmg 4%,,,38.90 %
+187,0,Despair,2,5,12,20400,HP 37%,DEF 7%,CRI Rate 9%,Resistance 6%,Accuracy 13%,ATK +11,64.29 %
+188,0,Despair,2,5,12,20400,SPD +29,DEF 7%,CRI Rate 7%,Resistance 12%,CRI Dmg 8%,DEF +9,63.82 %
+189,0,Despair,2,6,0,28530,HP 11%,SPD +5,CRI Dmg 6%,CRI Rate 5%,,,53.74 %
+190,0,Despair,2,6,9,28530,SPD +25,,ATK 11%,CRI Rate 10%,CRI Dmg 4%,,61.52 %
+191,0,Despair,2,5,8,15300,SPD +21,HP 6%,DEF 7%,ATK 21%,,,60.71 %
+192,0,Despair,2,5,0,17000,SPD +5,DEF 7%,HP +164,CRI Dmg 3%,HP 7%,,45.92 %
+193,0,Despair,2,5,9,17000,DEF 29%,CRI Rate 4%,SPD +7,Accuracy 14%,ATK 4%,,59.52 %
+194,0,Despair,2,6,0,28530,DEF 11%,ATK +19,DEF +12,HP +293,,,35.71 %
+195,0,Despair,2,5,0,20400,SPD +5,HP +245,CRI Dmg 3%,Resistance 6%,ATK +9,Accuracy 5%,43.24 %
+196,0,Despair,2,5,0,15300,SPD +5,,ATK 4%,ATK +8,HP 5%,,38.39 %
+197,0,Despair,2,5,0,15300,SPD +5,ATK 5%,CRI Dmg 5%,CRI Rate 5%,,,45.88 %
+198,0,Despair,3,5,9,11475,DEF +78,,SPD +10,HP 10%,Resistance 5%,,55.65 %
+199,0,Despair,3,6,0,21397,DEF +22,,Accuracy 5%,CRI Rate 4%,HP 6%,,50.30 %
+200,0,Despair,3,5,0,14025,DEF +15,,SPD +3,HP 7%,DEF 5%,Accuracy 5%,49.11 %
+201,0,Despair,3,6,0,21397,DEF +22,HP +178,HP 8%,SPD +5,,,48.81 %
+202,0,Despair,3,5,0,12750,DEF +15,HP 6%,CRI Rate 4%,DEF 5%,CRI Dmg 3%,,48.00 %
+203,0,Despair,3,6,0,21397,DEF +22,,CRI Dmg 7%,Accuracy 6%,CRI Rate 5%,,54.17 %
+204,0,Despair,3,5,0,10200,DEF +15,,CRI Dmg 4%,CRI Rate 4%,,,39.20 %
+205,0,Despair,3,5,8,10200,DEF +71,,DEF 6%,SPD +11,,,48.81 %
+206,0,Despair,3,5,0,11475,DEF +15,HP 7%,CRI Dmg 4%,DEF 7%,,,46.94 %
+207,0,Despair,3,5,0,12750,DEF +15,Resistance 5%,SPD +3,HP 7%,Accuracy 6%,,50.00 %
+208,0,Despair,3,5,0,11475,DEF +15,DEF 4%,SPD +4,HP 6%,,,44.05 %
+209,0,Despair,3,5,0,11475,DEF +15,,CRI Rate 3%,DEF 7%,HP 5%,,44.64 %
+210,0,Despair,3,6,0,19020,DEF +22,,CRI Dmg 4%,DEF 7%,,,46.05 %
+211,0,Despair,3,5,0,10200,DEF +15,,Accuracy 7%,SPD +5,,,42.56 %
+212,0,Despair,4,5,12,18360,CRI Dmg 48%,SPD +3,CRI Rate 5%,Resistance 11%,ATK 21%,Accuracy 6%,73.81 %
+213,0,Despair,4,5,15,16830,HP 51%,,DEF 6%,Accuracy 14%,ATK +9,CRI Rate 4%,52.98 %
+214,0,Despair,4,5,9,18360,CRI Dmg 38%,HP +207,CRI Rate 3%,HP 11%,ATK 15%,DEF +14,57.14 %
+215,0,Despair,4,6,9,28530,CRI Dmg 47%,DEF +15,ATK +40,ATK 5%,HP 7%,,46.43 %
+216,0,Despair,4,5,9,13770,CRI Dmg 38%,,Resistance 13%,ATK 11%,SPD +5,,57.74 %
+217,0,Despair,4,6,0,25677,DEF 11%,,CRI Rate 6%,ATK 5%,Accuracy 5%,,51.79 %
+218,0,Despair,4,5,0,13770,CRI Rate 5%,,CRI Dmg 3%,Resistance 5%,ATK 6%,,43.24 %
+219,0,Despair,5,5,6,12240,HP +900,ATK +14,CRI Dmg 13%,DEF 5%,,,48.09 %
+220,0,Despair,5,5,0,10880,HP +270,,SPD +5,DEF 7%,,,42.56 %
+221,0,Despair,5,5,0,10880,HP +270,,ATK 7%,SPD +4,,,41.37 %
+222,0,Despair,5,5,0,10880,HP +270,,DEF 7%,SPD +4,,,41.37 %
+223,0,Despair,5,5,3,16320,HP +585,CRI Rate 5%,Resistance 12%,DEF 5%,ATK 6%,HP 4%,60.42 %
+224,0,Despair,5,5,0,10880,HP +270,,CRI Rate 4%,DEF 5%,,,39.58 %
+225,0,Despair,5,5,0,13600,HP +270,DEF +13,ATK 7%,Accuracy 5%,SPD +3,,44.64 %
+226,0,Despair,5,5,0,12240,HP +270,,CRI Rate 3%,ATK 7%,SPD +5,,46.13 %
+227,0,Despair,5,5,0,16320,HP +270,SPD +3,CRI Rate 4%,HP 4%,CRI Dmg 5%,DEF +10,47.36 %
+228,0,Despair,5,5,0,13600,HP +270,Accuracy 3%,HP 5%,SPD +4,ATK +10,,42.26 %
+229,0,Despair,5,5,0,13600,HP +270,ATK +15,HP 6%,CRI Dmg 4%,ATK 4%,,43.37 %
+230,0,Despair,5,6,0,25360,HP +360,ATK 8%,DEF +10,SPD +6,HP 7%,,56.25 %
+231,0,Despair,5,5,0,12240,HP +270,Resistance 7%,HP 7%,DEF 6%,,,48.21 %
+232,0,Despair,5,6,0,22824,HP +360,CRI Rate 4%,CRI Dmg 4%,SPD +5,,,50.51 %
+233,0,Despair,5,6,0,22824,HP +360,SPD +6,HP 6%,CRI Dmg 4%,,,52.30 %
+234,0,Despair,5,5,0,13600,HP +270,CRI Rate 3%,ATK 6%,SPD +5,HP 4%,,48.81 %
+235,0,Despair,6,6,6,24250,DEF 29%,Accuracy 7%,DEF +44,CRI Dmg 4%,,,46.05 %
+236,0,Despair,6,5,9,13005,HP 29%,,DEF 17%,ATK 6%,Accuracy 3%,,53.57 %
+237,0,Despair,6,5,0,14450,DEF 8%,Resistance 7%,SPD +5,Accuracy 3%,CRI Rate 3%,,48.81 %
+238,0,Vampire,6,5,0,10115,HP 8%,,DEF 5%,Resistance 7%,,,41.07 %
+239,0,Violent,5,5,0,10880,HP +270,,HP 6%,Resistance 7%,,,41.96 %
+240,0,Nemesis,4,5,0,15300,CRI Dmg 8%,,Accuracy 3%,HP +192,HP 6%,Resistance 3%,41.07 %
+241,0,Will,1,4,0,5236,ATK +10,,,,,,30.36 %
+242,0,Will,1,4,0,5236,ATK +10,,,,,,30.36 %
+243,0,Shield,1,3,0,2937,ATK +7,,,,,,30.36 %
+244,0,Shield,2,5,0,13600,SPD +5,,CRI Rate 5%,CRI Dmg 5%,Accuracy 6%,,46.77 %
+245,0,Shield,2,6,0,22190,SPD +7,,DEF +12,DEF 6%,,,41.07 %
+246,0,Shield,4,4,0,4961,ATK +10,,,,,,30.36 %
+247,0,Revenge,1,4,0,5236,ATK +10,,,,,,30.36 %
+248,0,???,1,6,0,9034,ATK +22,Resistance 7%,,,,,41.96 %
+249,1 (Megan),Energy,1,5,12,11305,ATK +99,CRI Dmg 3%,SPD +10,HP 18%,Resistance 4%,CRI Rate 3%,68.54 %
+250,1 (Megan),Despair,2,5,15,18700,SPD +39,,HP 7%,CRI Dmg 14%,CRI Rate 4%,HP +262,55.65 %
+251,1 (Megan),Swift,3,6,9,11887,DEF +94,,SPD +11,HP 13%,CRI Rate 5%,,66.37 %
+252,1 (Megan),Swift,4,5,3,6120,HP 15%,,SPD +4,ATK 13%,,,46.73 %
+253,1 (Megan),Swift,5,5,9,8160,HP +1215,DEF 7%,HP 12%,SPD +7,CRI Rate 5%,,61.61 %
+254,1 (Megan),Swift,6,5,15,10115,HP 51%,,HP +445,ATK 5%,ATK +24,SPD +9,45.54 %
+255,2 (Galleon),Blade,1,5,9,10497,ATK +78,,SPD +9,HP 9%,CRI Dmg 5%,Resistance 8%,61.35 %
+256,2 (Galleon),Blade,2,6,9,17435,SPD +25,DEF +17,CRI Rate 11%,CRI Dmg 10%,Accuracy 8%,,66.16 %
+257,2 (Galleon),Swift,3,6,9,11887,DEF +94,,DEF 13%,CRI Rate 10%,SPD +8,,68.75 %
+258,2 (Galleon),Blade,4,6,12,21397,DEF 47%,Resistance 6%,ATK 13%,CRI Dmg 9%,HP 8%,ATK +16,69.01 %
+259,2 (Galleon),Swift,5,5,9,6800,HP +1215,,DEF 7%,SPD +10,ATK 5%,,52.98 %
+260,2 (Galleon),Energy,6,5,12,10115,Accuracy 38%,CRI Rate 4%,ATK 4%,HP 12%,CRI Dmg 11%,Resistance 5%,65.09 %
+261,3 (Sigmarus),Blade,1,6,9,16563,ATK +94,CRI Dmg 5%,CRI Rate 10%,ATK 11%,HP +224,,62.54 %
+262,3 (Sigmarus),Blade,2,6,15,20605,ATK 63%,,SPD +9,Resistance 14%,CRI Rate 4%,DEF +12,63.69 %
+263,3 (Sigmarus),Blade,3,6,12,17831,DEF +118,CRI Rate 5%,Accuracy 8%,CRI Dmg 21%,SPD +5,HP 14%,88.69 %
+264,3 (Sigmarus),Blade,4,6,15,21397,CRI Dmg 80%,CRI Rate 4%,DEF 8%,SPD +19,ATK +10,HP +359,70.24 %
+265,3 (Sigmarus),Energy,5,6,12,15216,HP +1800,,CRI Rate 12%,DEF 14%,CRI Dmg 12%,ATK 8%,81.89 %
+266,3 (Sigmarus),Despair,6,6,15,29639,ATK 63%,,SPD +14,ATK +14,CRI Dmg 4%,HP +243,56.46 %
+267,4 (Spectra),Swift,1,5,12,11305,ATK +99,,CRI Dmg 7%,HP 12%,CRI Rate 8%,SPD +5,63.69 %
+268,4 (Spectra),Despair,2,6,12,34870,SPD +31,,DEF +44,ATK 7%,CRI Dmg 9%,CRI Rate 5%,57.10 %
+269,4 (Spectra),Swift,3,6,12,19020,DEF +118,DEF 8%,Accuracy 15%,SPD +10,CRI Rate 4%,HP +137,72.92 %
+270,4 (Spectra),Energy,4,6,15,19971,HP 63%,CRI Dmg 6%,Resistance 10%,ATK 15%,HP +591,DEF +14,64.16 %
+271,4 (Spectra),Swift,5,5,9,8160,HP +1215,HP 6%,SPD +9,DEF 10%,ATK 6%,,60.71 %
+272,4 (Spectra),Swift,6,6,15,21556,HP 63%,CRI Rate 5%,HP +626,Accuracy 13%,DEF 5%,ATK +15,57.74 %
+273,5 (Baretta),Despair,1,5,9,16150,ATK +78,HP +126,SPD +9,Accuracy 13%,ATK 12%,,63.39 %
+274,5 (Baretta),Despair,2,5,12,20400,SPD +29,CRI Dmg 5%,ATK 17%,Accuracy 9%,HP 5%,ATK +12,63.14 %
+275,5 (Baretta),Despair,3,5,9,15300,DEF +78,Resistance 5%,CRI Rate 6%,SPD +9,HP 9%,Accuracy 6%,66.07 %
+276,5 (Baretta),Energy,4,4,9,4134,HP 24%,SPD +2,DEF +4,Resistance 11%,CRI Rate 4%,,47.32 %
+277,5 (Baretta),Swift,5,5,9,8160,HP +1215,Resistance 3%,Accuracy 19%,HP 7%,ATK 5%,,60.71 %
+278,5 (Baretta),Despair,6,6,7,32334,HP 32%,ATK 5%,CRI Rate 8%,CRI Dmg 4%,DEF 13%,Resistance 6%,70.75 %
+279,6 (Hwa),Fatal,1,5,9,7267,ATK +78,,ATK 18%,SPD +4,CRI Rate 4%,,55.95 %
+280,6 (Hwa),Fatal,2,5,12,12750,SPD +29,DEF +14,Accuracy 12%,ATK 17%,Resistance 3%,DEF 7%,65.18 %
+281,6 (Hwa),Fatal,3,5,9,5737,DEF +78,,HP +626,CRI Rate 10%,CRI Dmg 5%,,47.36 %
+282,6 (Hwa),Fatal,4,6,12,21397,CRI Dmg 59%,DEF 7%,HP 12%,DEF +35,SPD +6,ATK +46,59.82 %
+283,6 (Hwa),Swift,5,6,9,12680,HP +1440,,CRI Dmg 12%,CRI Rate 9%,SPD +5,,64.63 %
+284,6 (Hwa),Focus,6,6,12,21556,ATK 47%,ATK +14,CRI Rate 9%,CRI Dmg 9%,DEF +31,HP 5%,60.08 %
+285,7 (Daphnis),Swift,1,5,12,12920,ATK +99,HP 4%,Accuracy 10%,CRI Rate 17%,CRI Dmg 4%,ATK 7%,73.43 %
+286,7 (Daphnis),Fatal,2,5,12,12750,SPD +29,CRI Dmg 3%,DEF +8,CRI Rate 13%,HP +242,Resistance 7%,55.14 %
+287,7 (Daphnis),Fatal,3,5,12,9562,DEF +99,CRI Dmg 3%,SPD +3,DEF 4%,CRI Rate 13%,HP +523,56.04 %
+288,7 (Daphnis),Swift,4,6,12,19971,CRI Dmg 59%,,ATK +49,ATK 8%,CRI Rate 10%,SPD +5,60.71 %
+289,7 (Daphnis),Fatal,5,6,12,16484,HP +1800,,DEF 5%,CRI Rate 16%,SPD +12,ATK +15,73.51 %
+290,7 (Daphnis),Fatal,6,5,9,6502,ATK 29%,,CRI Dmg 3%,HP +348,Accuracy 19%,,50.38 %
+291,8 (Hraesvelg),Fatal,1,4,12,5673,ATK +82,,Accuracy 2%,ATK 10%,CRI Dmg 12%,CRI Rate 7%,61.65 %
+292,8 (Hraesvelg),Fatal,2,5,12,12750,SPD +29,CRI Dmg 5%,CRI Rate 10%,Resistance 11%,ATK +10,HP 5%,61.65 %
+293,8 (Hraesvelg),Swift,3,6,9,11887,DEF +94,,CRI Dmg 14%,CRI Rate 10%,HP +482,,61.90 %
+294,8 (Hraesvelg),Fatal,4,6,12,21397,CRI Dmg 59%,Accuracy 4%,ATK +39,CRI Rate 4%,DEF 5%,DEF +20,48.51 %
+295,8 (Hraesvelg),Fatal,5,5,15,10200,HP +2088,SPD +4,CRI Rate 3%,ATK +25,CRI Dmg 12%,DEF +8,50.94 %
+296,8 (Hraesvelg),Energy,6,5,9,5780,ATK 29%,,CRI Dmg 4%,CRI Rate 4%,SPD +15,,57.06 %
+297,9 (Akhamamir),Fatal,1,5,12,10497,ATK +99,,ATK 18%,CRI Rate 10%,CRI Dmg 5%,HP 7%,69.69 %
+298,9 (Akhamamir),Fatal,2,5,15,11050,ATK 51%,,CRI Rate 8%,DEF +24,HP +178,HP 6%,45.24 %
+299,9 (Akhamamir),Fatal,3,5,12,8287,DEF +99,,CRI Rate 14%,HP 9%,Resistance 7%,DEF 4%,64.88 %
+300,9 (Akhamamir),Fatal,4,6,15,18544,CRI Dmg 80%,,DEF +41,Accuracy 7%,SPD +5,HP +331,47.92 %
+301,9 (Akhamamir),Blade,5,5,9,6120,HP +1215,,ATK 20%,CRI Rate 3%,CRI Dmg 5%,,56.89 %
+302,9 (Akhamamir),Blade,6,5,15,10837,ATK 51%,HP +299,SPD +12,CRI Dmg 5%,Resistance 7%,HP 7%,62.24 %
+303,10 (Lushen),Blade,1,6,12,22586,ATK +118,Resistance 5%,CRI Rate 16%,ATK 16%,Accuracy 8%,HP 5%,85.12 %
+304,10 (Lushen),Fatal,2,5,15,11050,ATK 51%,,SPD +4,CRI Rate 11%,CRI Dmg 9%,Accuracy 7%,63.65 %
+305,10 (Lushen),Blade,3,5,12,9562,DEF +99,Resistance 3%,CRI Dmg 5%,CRI Rate 15%,SPD +5,Accuracy 4%,65.52 %
+306,10 (Lushen),Blade,4,6,15,18544,CRI Dmg 80%,,Resistance 6%,SPD +23,ATK +13,ATK 14%,80.95 %
+307,10 (Lushen),Blade,5,6,12,19020,HP +1800,SPD +4,ATK 13%,CRI Dmg 16%,Accuracy 12%,CRI Rate 6%,86.27 %
+308,10 (Lushen),Fatal,6,5,15,9392,ATK 51%,,HP 6%,CRI Rate 10%,CRI Dmg 11%,Resistance 6%,64.20 %
+309,11 (Belladeon),Swift,1,5,12,12920,ATK +99,ATK 6%,HP 13%,SPD +9,HP +237,CRI Dmg 5%,63.14 %
+310,11 (Belladeon),Swift,2,5,12,13600,SPD +29,CRI Rate 5%,DEF 4%,Accuracy 12%,HP 6%,ATK +10,55.95 %
+311,11 (Belladeon),Swift,3,6,12,19020,DEF +118,HP +352,Accuracy 15%,HP 12%,CRI Dmg 5%,CRI Rate 6%,72.07 %
+312,11 (Belladeon),Blade,4,5,12,9945,HP 37%,,SPD +10,CRI Rate 10%,CRI Dmg 3%,Accuracy 5%,61.69 %
+313,11 (Belladeon),Swift,5,6,12,20288,HP +1800,Resistance 4%,SPD +4,Accuracy 11%,HP 17%,DEF 6%,74.40 %
+314,11 (Belladeon),Fatal,6,6,12,17514,HP 47%,,Accuracy 7%,SPD +13,ATK 13%,CRI Rate 5%,75.00 %
+315,12 (Veromos),Swift,1,5,9,9690,ATK +78,ATK 5%,Resistance 10%,HP 15%,SPD +4,,61.90 %
+316,12 (Veromos),Swift,2,5,12,13600,SPD +29,DEF 5%,HP 9%,CRI Dmg 12%,CRI Rate 4%,Resistance 9%,67.90 %
+317,12 (Veromos),Swift,3,5,12,10200,DEF +99,HP +129,Accuracy 11%,HP 8%,SPD +5,DEF 7%,59.52 %
+318,12 (Veromos),Despair,4,5,15,16830,HP 51%,,SPD +8,Accuracy 9%,Resistance 7%,ATK +10,54.17 %
+319,12 (Veromos),Blade,5,5,12,8840,HP +1530,,SPD +19,CRI Rate 5%,HP 12%,DEF 7%,75.89 %
+320,12 (Veromos),Swift,6,6,15,18861,HP 63%,,Accuracy 14%,DEF 12%,ATK 8%,HP +214,66.07 %
+321,14 (Konamiya),Energy,1,4,9,3491,ATK +64,,HP 13%,SPD +6,Resistance 5%,,53.57 %
+322,14 (Konamiya),Energy,2,5,9,8500,SPD +23,ATK +11,CRI Rate 11%,HP 4%,Resistance 4%,,50.60 %
+323,14 (Konamiya),Energy,3,4,9,3445,DEF +64,CRI Dmg 4%,HP 9%,SPD +8,Accuracy 4%,,55.57 %
+324,14 (Konamiya),Fatal,4,5,10,6885,HP 32%,,ATK +13,Resistance 12%,Accuracy 19%,,58.04 %
+325,14 (Konamiya),Blade,5,5,9,7480,HP +1215,CRI Dmg 3%,Accuracy 17%,CRI Rate 7%,HP 5%,,61.39 %
+326,14 (Konamiya),Energy,6,5,15,10115,HP 51%,SPD +3,Accuracy 5%,ATK 18%,DEF 7%,CRI Rate 3%,64.29 %
+327,15 (Hemos),Energy,1,4,9,4364,ATK +64,CRI Dmg 5%,Accuracy 3%,SPD +9,HP 6%,,54.21 %
+328,15 (Hemos),Energy,2,5,9,6800,SPD +23,,HP 4%,HP +554,ATK 14%,,46.43 %
+329,15 (Hemos),Fatal,3,6,9,13076,DEF +94,DEF 5%,SPD +14,HP 13%,Resistance 8%,,75.60 %
+330,15 (Hemos),Despair,4,5,12,16830,ATK 37%,,ATK +8,CRI Rate 3%,SPD +18,DEF +8,55.36 %
+331,15 (Hemos),Blade,5,5,9,6120,HP +1215,,SPD +9,ATK +14,Accuracy 15%,,54.46 %
+332,15 (Hemos),Energy,6,6,9,13472,Accuracy 39%,DEF 8%,Resistance 14%,HP 10%,ATK 5%,,68.75 %
+333,17 (Gildong),Swift,1,5,9,9690,ATK +78,HP +90,Accuracy 12%,HP 13%,ATK 5%,,57.14 %
+334,17 (Gildong),Energy,2,6,12,19020,SPD +31,,Resistance 21%,HP +512,CRI Rate 4%,DEF +11,59.23 %
+335,17 (Gildong),Swift,3,5,12,8925,DEF +99,,Resistance 12%,HP 12%,SPD +3,CRI Rate 3%,58.93 %
+336,17 (Gildong),Energy,4,5,12,10710,HP 37%,HP +161,CRI Dmg 5%,ATK 19%,DEF 4%,CRI Rate 4%,60.76 %
+337,17 (Gildong),Swift,5,4,9,4410,HP +970,SPD +2,ATK +5,HP 18%,Resistance 5%,,53.27 %
+338,17 (Gildong),Swift,6,5,12,10115,HP 37%,,Resistance 16%,DEF 6%,HP +295,SPD +3,53.57 %
+339,18 (Colleen),Swift,1,5,9,9690,ATK +78,Resistance 5%,CRI Rate 10%,HP 12%,SPD +4,,62.20 %
+340,18 (Colleen),Swift,2,6,0,12680,DEF +22,,ATK 6%,CRI Rate 4%,,,45.83 %
+341,18 (Colleen),Swift,3,5,6,6375,DEF +57,CRI Rate 4%,CRI Dmg 7%,SPD +9,,,52.98 %
+342,18 (Colleen),Energy,4,5,12,10710,ATK 37%,DEF +8,HP 9%,SPD +3,DEF 4%,CRI Rate 19%,68.15 %
+343,18 (Colleen),Blade,6,6,0,14819,ATK +22,DEF 8%,CRI Dmg 5%,CRI Rate 5%,SPD +5,,59.86 %
+344,19 (Sath),Fatal,1,5,9,7267,ATK +78,,ATK 15%,HP +288,CRI Rate 5%,,49.70 %
+345,19 (Sath),Blade,2,5,9,7650,SPD +23,,ATK 15%,Resistance 6%,ATK +13,,49.11 %
+346,19 (Sath),Fatal,5,5,9,7480,HP +1215,ATK 7%,SPD +12,DEF +21,ATK +8,,50.89 %
+347,20 (Racuni),Swift,1,4,9,4364,ATK +64,,ATK 14%,Accuracy 8%,HP 5%,,54.46 %
+348,20 (Racuni),Energy,2,4,9,3675,HP 24%,,DEF 14%,CRI Rate 8%,Resistance 5%,,56.85 %
+349,20 (Racuni),Swift,3,4,9,3445,DEF +64,,Resistance 2%,HP +222,Accuracy 12%,,42.86 %
+350,20 (Racuni),Energy,5,5,6,5440,HP +900,DEF 7%,SPD +3,Accuracy 12%,,,50.89 %
+351,21 (Shannon),Swift,1,6,9,18069,ATK +94,HP +308,HP 6%,Accuracy 17%,CRI Rate 6%,,63.39 %
+352,21 (Shannon),Despair,2,5,12,20400,SPD +29,DEF 4%,ATK 18%,HP 7%,CRI Dmg 4%,HP +210,60.33 %
+353,21 (Shannon),Fatal,3,6,9,13076,DEF +94,CRI Dmg 4%,HP 20%,SPD +5,HP +274,,63.61 %
+354,21 (Shannon),Swift,4,5,12,10710,DEF 37%,,DEF +24,Accuracy 11%,SPD +3,CRI Rate 4%,48.51 %
+355,21 (Shannon),Despair,5,5,9,13600,HP +1215,ATK +12,Resistance 5%,HP 18%,Accuracy 7%,,57.14 %
+356,21 (Shannon),Despair,6,6,15,32334,HP 63%,DEF 7%,ATK 6%,Accuracy 9%,CRI Rate 15%,DEF +15,73.21 %
+357,22 (Bernard),Swift,1,5,9,8075,ATK +78,,HP 11%,SPD +8,Accuracy 3%,,52.38 %
+358,22 (Bernard),Swift,2,5,12,13600,SPD +29,DEF 4%,HP 5%,CRI Rate 11%,HP +270,CRI Dmg 5%,56.59 %
+359,22 (Bernard),Despair,3,6,9,21397,DEF +94,,Accuracy 5%,SPD +16,HP +219,,59.23 %
+360,22 (Bernard),Fatal,4,6,9,18544,HP 38%,,CRI Dmg 5%,SPD +13,Resistance 13%,DEF 6%,73.26 %
+361,22 (Bernard),Swift,5,5,9,6800,HP +1215,,HP 5%,SPD +18,ATK 5%,,60.71 %
+362,22 (Bernard),Swift,6,6,15,21556,HP 63%,DEF 6%,ATK +36,CRI Rate 9%,SPD +16,DEF +13,70.83 %
+363,23 (Taharus),Fatal,1,5,9,8882,ATK +78,CRI Dmg 3%,CRI Rate 14%,SPD +4,HP +239,,54.85 %
+364,23 (Taharus),Despair,2,5,12,18700,ATK 37%,,CRI Rate 3%,CRI Dmg 10%,HP +199,Resistance 3%,46.81 %
+365,24 (Mav),Energy,1,5,9,9690,ATK +78,,HP 6%,CRI Dmg 5%,Accuracy 10%,SPD +11,62.84 %
+366,24 (Mav),Energy,2,5,12,10200,HP 37%,,Accuracy 6%,DEF 16%,ATK +15,HP +285,50.00 %
+367,24 (Mav),Fatal,3,5,9,5737,DEF +78,,SPD +10,HP 9%,Accuracy 12%,,61.01 %
+368,24 (Mav),Energy,4,4,12,4961,HP 31%,,Resistance 6%,HP +431,ATK 3%,DEF +14,38.39 %
+369,24 (Mav),Fatal,5,5,9,8840,HP +1215,,CRI Dmg 3%,HP 10%,Accuracy 17%,DEF +14,57.53 %
+370,24 (Mav),Energy,6,6,12,16167,HP 47%,,CRI Rate 10%,ATK 17%,Accuracy 8%,DEF +11,69.94 %
+371,25 (Barque),Fatal,1,5,9,12112,ATK +78,SPD +5,Accuracy 7%,CRI Dmg 7%,ATK 12%,HP 11%,70.24 %
+372,25 (Barque),Blade,2,5,12,11050,ATK 37%,,CRI Dmg 10%,DEF 7%,HP 5%,SPD +4,56.04 %
+373,25 (Barque),Fatal,3,5,9,9562,DEF +78,DEF 6%,Resistance 9%,SPD +9,Accuracy 13%,CRI Dmg 5%,71.17 %
+374,25 (Barque),Fatal,4,5,12,11475,CRI Dmg 48%,ATK 5%,SPD +8,ATK +22,Accuracy 5%,CRI Rate 3%,52.38 %
+375,25 (Barque),Blade,5,5,9,6120,HP +1215,,DEF 6%,CRI Dmg 10%,CRI Rate 9%,,56.63 %
+376,25 (Barque),Fatal,6,6,9,12125,HP 38%,,Accuracy 7%,ATK 13%,CRI Dmg 18%,,71.94 %
+377,26 (Iona),Swift,1,5,9,9690,ATK +78,Accuracy 4%,HP 13%,Resistance 7%,ATK 16%,,66.07 %
+378,26 (Iona),Swift,2,5,9,10200,HP 29%,SPD +3,DEF +39,ATK 7%,CRI Rate 5%,,46.13 %
+379,26 (Iona),Energy,3,6,9,11887,DEF +94,CRI Dmg 4%,HP 12%,SPD +9,HP +477,,61.22 %
+380,26 (Iona),Energy,4,5,9,6120,HP 29%,,CRI Dmg 5%,CRI Rate 11%,DEF 4%,,52.13 %
+381,26 (Iona),Swift,5,5,9,10880,HP +1215,Accuracy 7%,DEF 11%,DEF +21,ATK 4%,HP 10%,58.93 %
+382,26 (Iona),Swift,6,5,9,7225,HP 29%,,HP +406,CRI Rate 8%,Resistance 10%,,48.81 %
+383,27 (Darion),Energy,1,6,9,12046,ATK +94,,ATK 19%,Accuracy 6%,HP 7%,,64.29 %
+384,27 (Darion),Energy,2,5,12,10200,HP 37%,,Accuracy 12%,ATK 9%,HP +272,DEF +9,49.11 %
+385,27 (Darion),Blade,3,5,9,7012,DEF +78,Accuracy 3%,DEF 4%,HP 19%,HP +290,,53.57 %
+386,27 (Darion),Energy,4,4,9,3307,HP 24%,,DEF 15%,CRI Rate 4%,Resistance 6%,,53.87 %
+387,27 (Darion),Energy,5,5,9,5440,HP +1215,,HP 5%,DEF 17%,CRI Dmg 4%,,54.08 %
+388,27 (Darion),Blade,6,6,12,20208,HP 47%,ATK +16,DEF +24,ATK 13%,CRI Dmg 12%,Resistance 7%,65.82 %
+389,28 (Neal),Swift,1,5,9,8075,ATK +78,,HP 14%,Resistance 3%,CRI Dmg 5%,,50.64 %
+390,28 (Neal),Fatal,2,5,0,9350,SPD +5,ATK +13,DEF 4%,HP 5%,CRI Dmg 5%,,43.49 %
+391,28 (Neal),Swift,3,4,9,4134,DEF +64,CRI Dmg 3%,HP 13%,Resistance 3%,Accuracy 10%,,56.63 %
+392,28 (Neal),Energy,4,5,12,9180,HP 37%,,CRI Rate 11%,Resistance 4%,Accuracy 4%,DEF 7%,56.85 %
+393,28 (Neal),Energy,5,5,9,5440,HP +1215,,Accuracy 10%,HP 9%,DEF 5%,,51.79 %
+394,28 (Neal),Swift,6,5,8,11560,DEF 27%,Resistance 7%,Accuracy 3%,DEF +24,HP +509,SPD +4,44.05 %
+395,29 (Decamaron),Swift,1,4,9,4364,ATK +64,,HP 12%,Resistance 9%,CRI Dmg 2%,,51.15 %
+396,30 (Zinc),Despair,1,5,9,17765,ATK +78,,HP +94,CRI Rate 9%,Accuracy 14%,CRI Dmg 5%,58.67 %
+397,30 (Zinc),Blade,2,5,12,11050,SPD +29,,DEF +14,DEF 12%,CRI Rate 15%,HP 7%,65.18 %
+398,30 (Zinc),Despair,3,5,9,14025,DEF +78,,CRI Rate 13%,HP +223,SPD +8,HP 4%,58.93 %
+399,30 (Zinc),Blade,4,5,12,9945,CRI Dmg 48%,,SPD +8,Resistance 18%,DEF 6%,ATK +14,61.31 %
+400,30 (Zinc),Despair,5,5,11,13600,HP +1425,ATK 5%,CRI Rate 15%,Accuracy 6%,SPD +4,,62.80 %
+401,30 (Zinc),Despair,6,5,9,13005,DEF 29%,,ATK 11%,CRI Rate 8%,Accuracy 3%,,52.38 %
+402,33 (Yaku),Fatal,1,5,9,7267,ATK +78,,ATK 5%,CRI Rate 11%,Accuracy 7%,,54.17 %
+403,33 (Yaku),Fatal,2,5,0,7650,ATK 8%,,CRI Dmg 4%,DEF +12,DEF 6%,,39.80 %
+404,33 (Yaku),Blade,3,5,9,9562,DEF +78,DEF 4%,CRI Dmg 5%,CRI Rate 8%,HP +475,HP 9%,56.59 %
+405,33 (Yaku),Fatal,4,5,0,6885,CRI Dmg 8%,ATK 7%,DEF 4%,Accuracy 7%,,,46.43 %
+406,33 (Yaku),Fatal,5,5,9,6120,HP +1215,,Accuracy 16%,CRI Dmg 5%,CRI Rate 6%,,56.89 %
+407,33 (Yaku),Blade,6,5,12,10837,Accuracy 38%,DEF 5%,CRI Rate 3%,HP 16%,SPD +7,ATK +9,61.01 %
+408,34 (Talc),Energy,1,5,9,8075,ATK +78,CRI Rate 5%,Resistance 9%,HP 13%,Accuracy 9%,,63.99 %
+409,34 (Talc),Swift,2,5,0,11900,HP 8%,,CRI Rate 5%,HP +269,CRI Dmg 5%,DEF +9,41.41 %
+410,34 (Talc),Swift,3,5,9,8925,DEF +78,,Resistance 3%,CRI Rate 8%,Accuracy 13%,DEF 7%,60.42 %
+411,34 (Talc),Energy,4,5,15,10710,HP 51%,CRI Dmg 5%,CRI Rate 7%,DEF 10%,DEF +29,Accuracy 3%,55.40 %
+412,34 (Talc),Swift,5,6,9,15216,HP +1440,ATK +13,Accuracy 14%,DEF 6%,DEF +17,,53.57 %
+413,34 (Talc),Swift,6,6,12,21556,Accuracy 48%,HP +227,CRI Rate 10%,Resistance 10%,ATK +14,ATK 8%,63.69 %
+414,104 (Tarq),Focus,3,5,0,8925,DEF +15,,CRI Rate 4%,SPD +4,DEF 6%,Resistance 3%,47.92 %
+415,104 (Tarq),Blade,6,6,0,12125,HP +360,SPD +5,ATK 8%,DEF 7%,,,55.06 %
+416,107 (Death Knight (Water)),Energy,2,4,9,4593,SPD +17,DEF +6,DEF 5%,HP +374,CRI Dmg 8%,,42.98 %
+417,107 (Death Knight (Water)),Swift,4,5,9,7650,CRI Rate 27%,,HP 11%,Accuracy 7%,DEF 5%,,50.89 %
+418,107 (Death Knight (Water)),Swift,6,4,6,3123,ATK 18%,,DEF 4%,HP +75,,,33.93 %
+419,124 (Ramagos),Energy,1,4,9,3491,ATK +64,,Resistance 5%,HP 9%,CRI Dmg 5%,,47.96 %
+420,124 (Ramagos),Energy,2,4,9,3675,HP 24%,,CRI Rate 11%,Accuracy 5%,SPD +3,,51.49 %
+421,124 (Ramagos),Energy,3,4,9,3445,DEF +64,CRI Rate 4%,HP 4%,Resistance 9%,DEF 9%,,54.76 %
+422,124 (Ramagos),Energy,5,5,9,6800,HP +1215,SPD +3,CRI Dmg 6%,HP 12%,ATK +13,,50.77 %
+423,124 (Ramagos),Energy,6,4,12,4685,HP 31%,,ATK 8%,SPD +4,Accuracy 12%,ATK +4,52.98 %
+424,126 (Neostone Fighter (Wind)),Swift,4,6,0,14265,DEF +22,Resistance 4%,HP 7%,ATK 5%,,,50.00 %
+425,126 (Neostone Fighter (Wind)),Despair,6,6,3,24250,HP +720,,CRI Dmg 5%,Accuracy 15%,DEF 8%,,61.35 %
+426,130 (Ninja (Wind)),Fatal,1,5,9,7267,ATK +78,,HP 10%,ATK 11%,SPD +7,,57.44 %
+427,130 (Ninja (Wind)),Fatal,2,6,0,20605,HP +360,,CRI Dmg 6%,Resistance 8%,CRI Rate 5%,DEF +19,54.93 %
+428,130 (Ninja (Wind)),Fatal,3,5,9,5737,DEF +78,,HP 16%,SPD +5,CRI Dmg 3%,,53.66 %
+429,130 (Ninja (Wind)),Energy,4,5,0,9180,CRI Rate 5%,,HP 4%,Resistance 5%,DEF +10,ATK 6%,43.75 %
+430,130 (Ninja (Wind)),Energy,5,5,9,6800,HP +1215,HP 5%,Accuracy 4%,CRI Dmg 13%,SPD +7,,59.99 %
+431,130 (Ninja (Wind)),Fatal,6,6,0,9430,ATK +22,,CRI Rate 5%,Accuracy 8%,,,48.81 %
+432,136 (Mimirr),Fatal,1,5,9,7267,ATK +78,,CRI Dmg 10%,ATK 6%,CRI Rate 7%,,54.25 %
+433,136 (Mimirr),Fatal,2,5,9,9350,DEF 29%,ATK 4%,Accuracy 11%,ATK +24,DEF +8,,43.75 %
+434,136 (Mimirr),Fatal,3,5,9,7012,DEF +78,CRI Rate 4%,SPD +7,HP 11%,DEF 5%,,57.74 %
+435,136 (Mimirr),Fatal,4,5,9,6885,CRI Rate 27%,,SPD +10,ATK 11%,HP 10%,,61.01 %
+436,136 (Mimirr),Energy,5,4,9,4410,HP +970,,SPD +4,CRI Rate 9%,DEF +7,HP 6%,51.19 %
+437,136 (Mimirr),Energy,6,5,12,8670,DEF 37%,,ATK +12,Accuracy 17%,ATK 4%,DEF +8,49.11 %
